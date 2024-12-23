@@ -1,8 +1,3 @@
-/* A Project On Filght Management System 
- * BY B-9      Java-2
- * 09/10/23
- */
-
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
